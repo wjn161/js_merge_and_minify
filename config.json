@@ -1,0 +1,5 @@
+{
+	"input":	["source/test.js","source/test2.js"],
+	"output":	"merge/index.min.js",
+	"comment":	"comment.txt"
+}

@@ -1,0 +1,5 @@
+/*
+* autor:wjn
+* version:1.0
+* %date%
+*/
