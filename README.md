@@ -1,6 +1,6 @@
 ## 基于nodejs和uglifyjs的javascript合并压缩工具
 
-### 环境设置
+### 环境设置:(目前只支持Windows系统)
 1. 在[nodejs官方](http://nodejs.org)下载最新版的windows安装文件
 2. 安装完成后在cmd中输入 `node --version` 查看nodejs版本号，正常显示则表示安装成功。
 
